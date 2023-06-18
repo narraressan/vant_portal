@@ -1,0 +1,14 @@
+{
+    "page": {
+        "404": {
+            "title": "Error 404"
+        },
+        "500": {
+            "title": "Error 500"
+        },
+        "Home": {
+            "title": "Hey!",
+            "welcome": "Hi, welcome to our Vant4 boilerplate"
+        }
+    }
+}
